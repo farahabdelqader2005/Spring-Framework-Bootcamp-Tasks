@@ -9,15 +9,20 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$USER_HOME$/Downloads/مكتبات" />
-          <root url="file://$USER_HOME$/Downloads/مكتبات" />
+          <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-26.7.0/mysql-connector-j-26.7.0/mysql-connector-j-26.7.0.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES>
-          <root url="file://$USER_HOME$/Downloads/مكتبات" />
-        </SOURCES>
-        <jarDirectory url="file://$USER_HOME$/Downloads/مكتبات" recursive="false" />
-        <jarDirectory url="file://$USER_HOME$/Downloads/مكتبات" recursive="false" type="SOURCES" />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/libs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Downloads/libs" recursive="false" />
       </library>
     </orderEntry>
     <orderEntry type="sourceFolder" forTests="false" />
