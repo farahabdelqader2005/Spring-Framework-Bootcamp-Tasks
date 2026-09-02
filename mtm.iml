@@ -9,15 +9,14 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$USER_HOME$/Downloads/مكتبات" />
-          <root url="file://$USER_HOME$/Downloads/مكتبات" />
+          <root url="file://$USER_HOME$/Desktop/libs" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$USER_HOME$/Downloads/مكتبات" />
+          <root url="file://$USER_HOME$/Desktop/libs" />
         </SOURCES>
-        <jarDirectory url="file://$USER_HOME$/Downloads/مكتبات" recursive="false" />
-        <jarDirectory url="file://$USER_HOME$/Downloads/مكتبات" recursive="false" type="SOURCES" />
+        <jarDirectory url="file://$USER_HOME$/Desktop/libs" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Desktop/libs" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
     <orderEntry type="sourceFolder" forTests="false" />
